@@ -1,6 +1,6 @@
 ---
 title: "Louie Neri"
-image: headshot.jpg
+image: IMG_4140.JPG
 about:
   template: trestles
   image-shape: round
