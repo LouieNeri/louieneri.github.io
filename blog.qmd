@@ -1,0 +1,10 @@
+---
+title: "Blog Posts"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+---
+
+A collection of my blog posts related to topics like statistics, nutrition, health economics, or evidence synthesis. You may see some other stuff here and there!

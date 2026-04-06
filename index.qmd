@@ -1,6 +1,6 @@
 ---
 title: "Louie Neri"
-image: IMG_4140.JPG
+image: headshot.jpg
 about:
   template: trestles
   image-shape: round
@@ -14,10 +14,10 @@ about:
     - icon: github
       text: Github
       href: https://github.com/louieneri
-    #- text: Nursing the Numbers (My blog)
-     # href: https://louieneri.github.io/nursingthenumbers/
     - text: Email | louie.neri@gmail.com
       href: mailto:louie.neri@gmail.com
+    - text: Blog Posts
+      href: blog.qmd
 ---
 
 Hello there! I'm Louie Neri, a nurse researcher based outside of Chicago, IL. Passionate about evidence-based medicine and nutrition. Currently, I'm a Researcher at Examine.com.
